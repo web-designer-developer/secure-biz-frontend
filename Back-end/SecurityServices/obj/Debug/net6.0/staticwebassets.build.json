@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "dPrCew/sM2E8YFbNeFG7X4oKp9l0sbmPbTCAjpEg4uY=",
+  "Source": "SecurityServices",
+  "BasePath": "_content/SecurityServices",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
